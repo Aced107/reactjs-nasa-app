@@ -192,4 +192,11 @@ font-weight: 200;
     margin: unset;
     width: 100%;
   }
+
+  
+  .bgOverlay {
+    right: 0;
+    left: unset;
+    width: 100vw;
+  }
 }
